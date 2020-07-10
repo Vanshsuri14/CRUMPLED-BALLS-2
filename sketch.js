@@ -33,7 +33,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(255,255,255);
+  background(255);
 
   paper.display();
   ground.display();
